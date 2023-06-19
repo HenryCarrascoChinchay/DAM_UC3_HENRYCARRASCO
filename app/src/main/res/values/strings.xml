@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DAM_UC3_HENRYCARRASCO</string>
+    <string name="tex_correo">correo</string>
+    <string name="tex_contraseña">contraseña</string>
+    <string name="booton_Entrar">Entrar</string>
+    <string name="checkbox_Nocerrarsesion">No cerrar sesion</string>
+    <string name="Textview_Hasolvidadotucontraseña">" Has olvidado tu contraseña"</string>
+    <string name="textview_Registrate">Registrate</string>
+    <string name="textview_esgratisyloseguirasiendo">Es gratis ( y lo seguira siendo)</string>
+    <string name="textview_Nombre">Nombre</string>
+    <string name="textview_Apellido">Apellido</string>
+    <string name="textview_correo">Tu correo electronico</string>
+    <string name="textview_contraseñanueva">Contraseña nueva</string>
+    <string name="textview_sexo">Sexo</string>
+    <string name="textview_fechadenacimiento">Fecha de nacimiento</string>
+    <string name="botton_Registrate">Registrate</string>
+</resources>
